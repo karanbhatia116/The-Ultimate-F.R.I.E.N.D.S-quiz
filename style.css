@@ -35,6 +35,10 @@ h1{
 	line-height: 50px;
 	margin-bottom: 2px;
 }
+.Title:hover{
+	color: #34ff18;
+	text-shadow: 5px 0 0 #fa7900; 
+}
 hr{
 	border-color: rgba(255,255,255,0.4);
 }
