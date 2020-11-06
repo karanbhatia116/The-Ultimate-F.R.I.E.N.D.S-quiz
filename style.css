@@ -35,7 +35,7 @@ h1{
 	line-height: 50px;
 	margin-bottom: 2px;
 }
-.Title:hover{
+#title:hover{
 	color: #34ff18;
 	text-shadow: 5px 0 0 #fa7900; 
 }
