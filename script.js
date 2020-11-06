@@ -208,7 +208,7 @@ $("button").click(function(){
      	    $('.question').remove();
      	    $('.input').hide();
      	    flashMsg.textContent = "Your score is "+score+"/10";
-     	    flashMsg.fadeIn('slow');
+     	    flashMsg.fadeIn(600); //in milliseconds
 
      	}
      }
